@@ -1,0 +1,13 @@
+RewriteEngine On
+
+# Ensure Apache recognizes .php files
+AddType application/x-httpd-php .php
+
+# Remove .php extension from URLs
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [L]
+
+# Redirect .php URLs to extensionless version (Optional)
+RewriteCond %{THE_REQUEST} \s([^.]+)\.php [NC]
+RewriteRule ^ %1 [R=301,L]

@@ -1,0 +1,105 @@
+[15-Mar-2025 11:49:20 UTC] PHP Warning:  include_once(config.php): Failed to open stream: No such file or directory in /home/pixxeluclients/public_html/php-dev/saurs/admin/header.php on line 6
+[15-Mar-2025 11:49:20 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pixxeluclients/public_html/php-dev/saurs/admin/header.php on line 6
+[15-Mar-2025 11:49:20 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ADMIN_URL" in /home/pixxeluclients/public_html/php-dev/saurs/admin/header.php:9
+Stack trace:
+#0 /home/pixxeluclients/public_html/php-dev/saurs/admin/dashboard.php(2): include()
+#1 {main}
+  thrown in /home/pixxeluclients/public_html/php-dev/saurs/admin/header.php on line 9
+[15-Mar-2025 11:50:17 UTC] PHP Warning:  include_once(config.php): Failed to open stream: No such file or directory in /home/pixxeluclients/public_html/php-dev/saurs/admin/header.php on line 6
+[15-Mar-2025 11:50:17 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pixxeluclients/public_html/php-dev/saurs/admin/header.php on line 6
+[15-Mar-2025 11:50:17 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ADMIN_URL" in /home/pixxeluclients/public_html/php-dev/saurs/admin/header.php:9
+Stack trace:
+#0 /home/pixxeluclients/public_html/php-dev/saurs/admin/dashboard.php(2): include()
+#1 {main}
+  thrown in /home/pixxeluclients/public_html/php-dev/saurs/admin/header.php on line 9
+[15-Mar-2025 11:50:25 UTC] PHP Warning:  include_once(config.php): Failed to open stream: No such file or directory in /home/pixxeluclients/public_html/php-dev/saurs/admin/header.php on line 6
+[15-Mar-2025 11:50:25 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pixxeluclients/public_html/php-dev/saurs/admin/header.php on line 6
+[15-Mar-2025 11:50:25 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ADMIN_URL" in /home/pixxeluclients/public_html/php-dev/saurs/admin/header.php:9
+Stack trace:
+#0 /home/pixxeluclients/public_html/php-dev/saurs/admin/dashboard.php(2): include()
+#1 {main}
+  thrown in /home/pixxeluclients/public_html/php-dev/saurs/admin/header.php on line 9
+[15-Mar-2025 11:50:32 UTC] PHP Warning:  include_once(config.php): Failed to open stream: No such file or directory in /home/pixxeluclients/public_html/php-dev/saurs/admin/header.php on line 6
+[15-Mar-2025 11:50:32 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pixxeluclients/public_html/php-dev/saurs/admin/header.php on line 6
+[15-Mar-2025 11:50:32 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ADMIN_URL" in /home/pixxeluclients/public_html/php-dev/saurs/admin/header.php:9
+Stack trace:
+#0 /home/pixxeluclients/public_html/php-dev/saurs/admin/dashboard.php(2): include()
+#1 {main}
+  thrown in /home/pixxeluclients/public_html/php-dev/saurs/admin/header.php on line 9
+[15-Mar-2025 11:50:34 UTC] PHP Warning:  include_once(config.php): Failed to open stream: No such file or directory in /home/pixxeluclients/public_html/php-dev/saurs/admin/header.php on line 6
+[15-Mar-2025 11:50:34 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pixxeluclients/public_html/php-dev/saurs/admin/header.php on line 6
+[15-Mar-2025 11:50:34 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ADMIN_URL" in /home/pixxeluclients/public_html/php-dev/saurs/admin/header.php:9
+Stack trace:
+#0 /home/pixxeluclients/public_html/php-dev/saurs/admin/dashboard.php(2): include()
+#1 {main}
+  thrown in /home/pixxeluclients/public_html/php-dev/saurs/admin/header.php on line 9
+[15-Mar-2025 11:50:43 UTC] PHP Warning:  include_once(config.php): Failed to open stream: No such file or directory in /home/pixxeluclients/public_html/php-dev/saurs/admin/header.php on line 6
+[15-Mar-2025 11:50:43 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pixxeluclients/public_html/php-dev/saurs/admin/header.php on line 6
+[15-Mar-2025 11:50:43 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ADMIN_URL" in /home/pixxeluclients/public_html/php-dev/saurs/admin/header.php:9
+Stack trace:
+#0 /home/pixxeluclients/public_html/php-dev/saurs/admin/dashboard.php(2): include()
+#1 {main}
+  thrown in /home/pixxeluclients/public_html/php-dev/saurs/admin/header.php on line 9
+[15-Mar-2025 11:50:57 UTC] PHP Warning:  include_once(config.php): Failed to open stream: No such file or directory in /home/pixxeluclients/public_html/php-dev/saurs/admin/header.php on line 6
+[15-Mar-2025 11:50:57 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pixxeluclients/public_html/php-dev/saurs/admin/header.php on line 6
+[15-Mar-2025 11:50:57 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ADMIN_URL" in /home/pixxeluclients/public_html/php-dev/saurs/admin/header.php:9
+Stack trace:
+#0 /home/pixxeluclients/public_html/php-dev/saurs/admin/dashboard.php(2): include()
+#1 {main}
+  thrown in /home/pixxeluclients/public_html/php-dev/saurs/admin/header.php on line 9
+[15-Mar-2025 11:51:38 UTC] PHP Warning:  include_once(config.php): Failed to open stream: No such file or directory in /home/pixxeluclients/public_html/php-dev/saurs/admin/header.php on line 6
+[15-Mar-2025 11:51:38 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pixxeluclients/public_html/php-dev/saurs/admin/header.php on line 6
+[15-Mar-2025 11:51:38 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ADMIN_URL" in /home/pixxeluclients/public_html/php-dev/saurs/admin/header.php:9
+Stack trace:
+#0 /home/pixxeluclients/public_html/php-dev/saurs/admin/dashboard.php(2): include()
+#1 {main}
+  thrown in /home/pixxeluclients/public_html/php-dev/saurs/admin/header.php on line 9
+[17-Mar-2025 05:41:36 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "BASE_URL" in /home/pixxeluclients/public_html/php-dev/saurs/admin/header.php:7
+Stack trace:
+#0 /home/pixxeluclients/public_html/php-dev/saurs/admin/dashboard.php(2): include()
+#1 {main}
+  thrown in /home/pixxeluclients/public_html/php-dev/saurs/admin/header.php on line 7
+[17-Mar-2025 05:41:44 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "BASE_URL" in /home/pixxeluclients/public_html/php-dev/saurs/admin/header.php:7
+Stack trace:
+#0 /home/pixxeluclients/public_html/php-dev/saurs/admin/dashboard.php(2): include()
+#1 {main}
+  thrown in /home/pixxeluclients/public_html/php-dev/saurs/admin/header.php on line 7
+[17-Mar-2025 05:42:43 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "BASE_URL" in /home/pixxeluclients/public_html/php-dev/saurs/admin/header.php:7
+Stack trace:
+#0 /home/pixxeluclients/public_html/php-dev/saurs/admin/dashboard.php(2): include()
+#1 {main}
+  thrown in /home/pixxeluclients/public_html/php-dev/saurs/admin/header.php on line 7
+[17-Mar-2025 05:42:46 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "BASE_URL" in /home/pixxeluclients/public_html/php-dev/saurs/admin/header.php:7
+Stack trace:
+#0 /home/pixxeluclients/public_html/php-dev/saurs/admin/dashboard.php(2): include()
+#1 {main}
+  thrown in /home/pixxeluclients/public_html/php-dev/saurs/admin/header.php on line 7
+[17-Mar-2025 05:43:53 UTC] PHP Warning:  require_once(/home/pixxeluclients/public_html/php-dev/saurs/adminconfig.php): Failed to open stream: No such file or directory in /home/pixxeluclients/public_html/php-dev/saurs/admin/header.php on line 5
+[17-Mar-2025 05:43:53 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pixxeluclients/public_html/php-dev/saurs/adminconfig.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pixxeluclients/public_html/php-dev/saurs/admin/header.php:5
+Stack trace:
+#0 /home/pixxeluclients/public_html/php-dev/saurs/admin/dashboard.php(2): include()
+#1 {main}
+  thrown in /home/pixxeluclients/public_html/php-dev/saurs/admin/header.php on line 5
+[17-Mar-2025 05:43:56 UTC] PHP Warning:  require_once(/home/pixxeluclients/public_html/php-dev/saurs/adminconfig.php): Failed to open stream: No such file or directory in /home/pixxeluclients/public_html/php-dev/saurs/admin/header.php on line 5
+[17-Mar-2025 05:43:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/pixxeluclients/public_html/php-dev/saurs/adminconfig.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pixxeluclients/public_html/php-dev/saurs/admin/header.php:5
+Stack trace:
+#0 /home/pixxeluclients/public_html/php-dev/saurs/admin/dashboard.php(2): include()
+#1 {main}
+  thrown in /home/pixxeluclients/public_html/php-dev/saurs/admin/header.php on line 5
+[17-Mar-2025 05:44:36 UTC] PHP Warning:  Undefined array key "https://pixxeluclients.com" in /home/pixxeluclients/public_html/php-dev/saurs/admin/config.php on line 6
+[17-Mar-2025 05:52:27 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "base_url" in /home/pixxeluclients/public_html/php-dev/saurs/admin/footer.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/pixxeluclients/public_html/php-dev/saurs/admin/footer.php on line 10
+[17-Mar-2025 05:54:03 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "base_url" in /home/pixxeluclients/public_html/php-dev/saurs/admin/sidebar.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/pixxeluclients/public_html/php-dev/saurs/admin/sidebar.php on line 7
+[17-Mar-2025 05:54:09 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "base_url" in /home/pixxeluclients/public_html/php-dev/saurs/admin/sidebar.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/pixxeluclients/public_html/php-dev/saurs/admin/sidebar.php on line 7
+[17-Mar-2025 05:54:43 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "base_url" in /home/pixxeluclients/public_html/php-dev/saurs/admin/sidebar.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/pixxeluclients/public_html/php-dev/saurs/admin/sidebar.php on line 7

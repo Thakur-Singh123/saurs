@@ -1,0 +1,76 @@
+[15-Mar-2025 10:52:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/pixxeluclients/public_html/php-dev/saurs/admin/config/db.php:7
+Stack trace:
+#0 /home/pixxeluclients/public_html/php-dev/saurs/admin/config/db.php(7): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'saurs')
+#1 /home/pixxeluclients/public_html/php-dev/saurs/auth/submit-login.php(3): include('/home/pixxelucl...')
+#2 {main}
+  thrown in /home/pixxeluclients/public_html/php-dev/saurs/admin/config/db.php on line 7
+[15-Mar-2025 10:52:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/pixxeluclients/public_html/php-dev/saurs/admin/config/db.php:7
+Stack trace:
+#0 /home/pixxeluclients/public_html/php-dev/saurs/admin/config/db.php(7): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'saurs')
+#1 /home/pixxeluclients/public_html/php-dev/saurs/auth/submit-login.php(3): include('/home/pixxelucl...')
+#2 {main}
+  thrown in /home/pixxeluclients/public_html/php-dev/saurs/admin/config/db.php on line 7
+[15-Mar-2025 10:52:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/pixxeluclients/public_html/php-dev/saurs/admin/config/db.php:7
+Stack trace:
+#0 /home/pixxeluclients/public_html/php-dev/saurs/admin/config/db.php(7): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'saurs')
+#1 /home/pixxeluclients/public_html/php-dev/saurs/auth/submit-login.php(3): include('/home/pixxelucl...')
+#2 {main}
+  thrown in /home/pixxeluclients/public_html/php-dev/saurs/admin/config/db.php on line 7
+[15-Mar-2025 10:53:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/pixxeluclients/public_html/php-dev/saurs/admin/config/db.php:7
+Stack trace:
+#0 /home/pixxeluclients/public_html/php-dev/saurs/admin/config/db.php(7): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'saurs')
+#1 /home/pixxeluclients/public_html/php-dev/saurs/auth/submit-login.php(3): include('/home/pixxelucl...')
+#2 {main}
+  thrown in /home/pixxeluclients/public_html/php-dev/saurs/admin/config/db.php on line 7
+[15-Mar-2025 10:53:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/pixxeluclients/public_html/php-dev/saurs/admin/config/db.php:7
+Stack trace:
+#0 /home/pixxeluclients/public_html/php-dev/saurs/admin/config/db.php(7): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'saurs')
+#1 /home/pixxeluclients/public_html/php-dev/saurs/auth/submit-login.php(3): include('/home/pixxelucl...')
+#2 {main}
+  thrown in /home/pixxeluclients/public_html/php-dev/saurs/admin/config/db.php on line 7
+[15-Mar-2025 10:55:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/pixxeluclients/public_html/php-dev/saurs/admin/config/db.php:7
+Stack trace:
+#0 /home/pixxeluclients/public_html/php-dev/saurs/admin/config/db.php(7): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'saurs')
+#1 /home/pixxeluclients/public_html/php-dev/saurs/auth/submit-login.php(3): include('/home/pixxelucl...')
+#2 {main}
+  thrown in /home/pixxeluclients/public_html/php-dev/saurs/admin/config/db.php on line 7
+[15-Mar-2025 10:55:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/pixxeluclients/public_html/php-dev/saurs/admin/config/db.php:7
+Stack trace:
+#0 /home/pixxeluclients/public_html/php-dev/saurs/admin/config/db.php(7): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'saurs')
+#1 /home/pixxeluclients/public_html/php-dev/saurs/auth/submit-login.php(3): include('/home/pixxelucl...')
+#2 {main}
+  thrown in /home/pixxeluclients/public_html/php-dev/saurs/admin/config/db.php on line 7
+[15-Mar-2025 11:02:41 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "base_url" in /home/pixxeluclients/public_html/php-dev/saurs/auth/login.php:140
+Stack trace:
+#0 {main}
+  thrown in /home/pixxeluclients/public_html/php-dev/saurs/auth/login.php on line 140
+[15-Mar-2025 11:03:09 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "base_url" in /home/pixxeluclients/public_html/php-dev/saurs/auth/login.php:140
+Stack trace:
+#0 {main}
+  thrown in /home/pixxeluclients/public_html/php-dev/saurs/auth/login.php on line 140
+[15-Mar-2025 11:07:36 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "base_url" in /home/pixxeluclients/public_html/php-dev/saurs/auth/login.php:140
+Stack trace:
+#0 {main}
+  thrown in /home/pixxeluclients/public_html/php-dev/saurs/auth/login.php on line 140
+[15-Mar-2025 11:08:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/pixxeluclients/public_html/php-dev/saurs/auth/login.php:140
+Stack trace:
+#0 {main}
+  thrown in /home/pixxeluclients/public_html/php-dev/saurs/auth/login.php on line 140
+[15-Mar-2025 11:08:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/pixxeluclients/public_html/php-dev/saurs/auth/login.php:140
+Stack trace:
+#0 {main}
+  thrown in /home/pixxeluclients/public_html/php-dev/saurs/auth/login.php on line 140
+[15-Mar-2025 11:08:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/pixxeluclients/public_html/php-dev/saurs/auth/login.php:140
+Stack trace:
+#0 {main}
+  thrown in /home/pixxeluclients/public_html/php-dev/saurs/auth/login.php on line 140
+[15-Mar-2025 11:08:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function base_url() in /home/pixxeluclients/public_html/php-dev/saurs/auth/login.php:140
+Stack trace:
+#0 {main}
+  thrown in /home/pixxeluclients/public_html/php-dev/saurs/auth/login.php on line 140
+[15-Mar-2025 11:35:21 UTC] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home/pixxeluclients/public_html/php-dev/saurs/auth/logout.php on line 3
+[15-Mar-2025 11:35:21 UTC] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/pixxeluclients/public_html/php-dev/saurs/auth/logout.php on line 3
+[15-Mar-2025 11:35:21 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "SITE_URL" in /home/pixxeluclients/public_html/php-dev/saurs/auth/logout.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/pixxeluclients/public_html/php-dev/saurs/auth/logout.php on line 7
