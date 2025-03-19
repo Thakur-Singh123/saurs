@@ -6,7 +6,7 @@
       <meta content="width=device-width, initial-scale=1.0" name="viewport">
       <meta content="" name="keywords">
       <meta content="" name="description">
-      <?php define('Base_url', 'https://pixxeluclients.com/php-dev/saurs'); ?>
+      <?php define('Base_url', 'http://localhost/saurs'); ?>
       <link href="<?php echo Base_url; ?>/asset/css/style.css" rel="stylesheet" />
       <link href="<?php echo Base_url; ?>/asset/css/bootstrap.min.css" rel="stylesheet" />
       <link href="<?php echo Base_url; ?>/asset/css/mobile.css" rel="stylesheet">

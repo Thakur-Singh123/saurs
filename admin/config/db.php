@@ -1,8 +1,8 @@
 <?php
 $servername = "localhost";
-$username = "pixxeluclients_saurs";
-$password = "!eSMepMfpZg+";
-$db_name = "pixxeluclients_saurs";
+$username = "root";
+$password = "";
+$db_name = "saurs";
 //Create connection
 $conn = new mysqli($servername, $username, $password, $db_name);
 //Check connection

@@ -16,7 +16,7 @@ if (!isset($_SESSION['login_user'])) {
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <title>Saurs Dashboard</title>
-      <?php define('base_url', 'https://pixxeluclients.com/php-dev/saurs/admin'); ?>
+      <?php define('base_url', 'http://localhost/saurs/admin'); ?>
       <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
       <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css">
       <link rel="stylesheet" href="https://cdn.datatables.net/1.13.4/css/jquery.dataTables.min.css">

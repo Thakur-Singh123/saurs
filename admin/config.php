@@ -6,5 +6,5 @@ $protocol = isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "
 $host = $_SERVER['HTTP_HOST']; 
 
 //Define the base URL
-define('BASE_URL', $protocol . "://" . $host . "/php-dev/saurs/");
+define('BASE_URL', $protocol . "://" . $host . "/saurs/");
 ?>
